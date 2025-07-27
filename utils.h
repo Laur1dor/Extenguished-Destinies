@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+#include <cmath>
+#include <fstream>
+#include <sstream>
+#include <cstdlib>
+#include <ctime>
+#include <algorithm>
